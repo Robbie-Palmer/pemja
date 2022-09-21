@@ -22,7 +22,7 @@ under the License.
 
     <groupId>com.alibaba</groupId>
     <artifactId>pemja</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1.6</version>
 
     <packaging>jar</packaging>
 
